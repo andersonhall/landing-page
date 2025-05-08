@@ -141,3 +141,11 @@
 .sign-up-btn:hover {
   cursor: pointer;
 }
+
+.footer {
+  background-color: #1f2937;
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding: 32px;
+}
