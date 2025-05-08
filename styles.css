@@ -62,3 +62,38 @@
   color: white;
   padding: 8px 32px;
 }
+
+/* INFO SECTION */
+.info {
+  text-align: center;
+  padding: 48px 10%;
+}
+
+.info h2 {
+  font-size: 36px;
+  font-weight: 900;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 32px;
+  margin: 24px 0;
+}
+
+.card {
+  width: 100px;
+}
+
+.card-img {
+  width: 100px;
+  height: 100px;
+  border: solid #3882f6;
+  border-radius: 10px;
+}
+
+.card-text {
+  color: #333;
+  font-size: 14px;
+}
